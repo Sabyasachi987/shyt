@@ -1,0 +1,24 @@
+{
+  "name": "shyt",
+  "version": "1.0.0",
+  "description": "A mini Git-like version control system",
+  "main": "main.js",
+  "bin": {
+    "shyt": "./main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "version-control"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "diff": "^8.0.2"
+  }
+}
