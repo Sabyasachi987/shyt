@@ -6,7 +6,7 @@ const zlib =require("node:zlib")
 const crypto=require('crypto')
 const chalk = require('chalk');
 const diff = require("diff")
-//                                                       ISMEH LAST KAM KIYA THA
+
 
 
 let ignored = [];
